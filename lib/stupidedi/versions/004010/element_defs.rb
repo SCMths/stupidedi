@@ -4711,6 +4711,7 @@ module Stupidedi
             "BT" => "Belt",
             "BX" => "Box",
             "CA" => "Case",
+            "CN" => "Can",
             "CS" => "Case Pack of %",
             "CT" => "Carton",
             "EA" => "Each",
